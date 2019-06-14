@@ -1,0 +1,12 @@
+
+public class OperandNode extends Node{
+    
+    
+    //constructor for Operand nodes
+    public OperandNode(char value){
+        
+        super(value);
+        
+    }//end OperandNode constructor
+    
+}//end OperandNode class
